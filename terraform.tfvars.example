@@ -1,0 +1,4 @@
+local_name = "../path/to/file.txt"
+secret_name = "ImportantFile"
+secret_description = "This is a very important file"
+tags = ""
